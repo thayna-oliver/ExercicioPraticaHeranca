@@ -1,0 +1,2 @@
+# ExercicioPraticaHeranca
+exercício academia Java 
